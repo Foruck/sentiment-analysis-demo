@@ -1,7 +1,3 @@
-# Sentiment Analysis Demo
+# Sentiment Analysis with BERT
 
-## 开发环境
-
-  Anaconda(Python 3.7)
-  
-  THULAC
+bert-analysis.ipynb 运行于Google Colab. 需上传data/data.7z至Google Drive并解压。
