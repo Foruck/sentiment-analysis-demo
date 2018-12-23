@@ -4,6 +4,8 @@ bert_analysis.ipynb 运行于Google Colab. 需上传data/data.7z至Google Drive�
 
 中文 without attention 89.67%
 
+中文 with attention 87.08%
+
 英文 with attention 89.84%
 
 英文 without attention 87.15%
