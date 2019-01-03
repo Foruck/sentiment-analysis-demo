@@ -16,7 +16,7 @@ Project for SJTU CS438
 
 BERT分词
 
-### 训练：bert-analysis.ipynb
+### 训练：bert_analysis.ipynb
 
 用80%作为train集合，20%作为valid集合。
 
